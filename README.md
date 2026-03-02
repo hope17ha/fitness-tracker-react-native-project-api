@@ -1,2 +1,2 @@
-# fitness-tracker-react-native-project-api
-backend for react native course project
+# softuni-react-native-group-chat-jan-2026-api
+React Native Course Project Backend API
